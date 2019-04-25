@@ -1,3 +1,3 @@
 # 说明
 
-这是[个人主站](http://bgods.cn)的评论
+这是[http://bgods.cn](http://bgods.cn/)的评论
